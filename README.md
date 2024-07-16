@@ -20,6 +20,8 @@ Based on recent trends in assessments and interviews from 50+ big tech companies
 Build in Public
 Announce on LinkedIn/Twitter/Instagram that you are starting#CrackYourInternship or#CrackYourPlacement Challenge to stay accountable.
 
+#crackyourinternship #arshgoyal
+
 Benefits:
 Interview-ready for your Internship and Placement season.
 Referrals to dream companies upon completion.
