@@ -4,7 +4,7 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 
 RU![image](https://github.com/user-attachments/assets/16ccf480-ae6a-403a-baf4-8478b817384c)
-LES
+
 
 Revise with Arsh challenge
 A 45-day challenge to help you improve your DSA skills and earn exciting prizes!
@@ -29,4 +29,3 @@ Referrals to dream companies upon completion.
 Mentorship sessions for top performers.
 Dedicated test series for company assessments.
 Prizes for consistent participants.
-# Backup_crackYourInternship
